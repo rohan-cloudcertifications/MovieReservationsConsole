@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieReservationsConsole", "MovieReservationsConsole\MovieReservationsConsole.csproj", "{482AD40D-1538-4438-9AAC-695FE5ECEBC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieReservationsTestProject2", "MovieReservationsTestProject2\MovieReservationsTestProject2.csproj", "{FB1B55BD-E392-4F5A-80F3-60B61657A387}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{482AD40D-1538-4438-9AAC-695FE5ECEBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{482AD40D-1538-4438-9AAC-695FE5ECEBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{482AD40D-1538-4438-9AAC-695FE5ECEBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{482AD40D-1538-4438-9AAC-695FE5ECEBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB1B55BD-E392-4F5A-80F3-60B61657A387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1B55BD-E392-4F5A-80F3-60B61657A387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1B55BD-E392-4F5A-80F3-60B61657A387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1B55BD-E392-4F5A-80F3-60B61657A387}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36B548DB-4B88-4E11-9B8B-528386BA0660}
+	EndGlobalSection
+EndGlobal
